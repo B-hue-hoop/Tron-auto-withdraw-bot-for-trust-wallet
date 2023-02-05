@@ -1,4 +1,4 @@
-# TRX Auto Withdrawal Bot for Multisignature Trust Wallet
+# **TRX Auto Withdrawal Bot for Multisignature Trust Wallet**
 
 This is a simple bot that automatically withdraws TRX tokens from a multisignature trust wallet and sends it to a specified address.
 
