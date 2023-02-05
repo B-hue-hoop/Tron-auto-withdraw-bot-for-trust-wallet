@@ -10,5 +10,5 @@ This is a simple bot that automatically withdraws TRX tokens from a multisignatu
 
 ## Installation
 
-The bot is written in js.If you wanna buy the bot
-and instructions.Contact
+** The bot is written in js.If you wanna buy the bot
+and instructions.Contact **
