@@ -4,7 +4,7 @@ This is a simple bot that automatically withdraws TRX tokens from a multisignatu
 
 ## Features
 
-* Automatic withdrawal of TRX tokens from a multisignature trust wallet
+* :robot: Automatic withdrawal of TRX tokens from a multisignature trust wallet
 * Send tokens to a specified address
 * Fast
 
