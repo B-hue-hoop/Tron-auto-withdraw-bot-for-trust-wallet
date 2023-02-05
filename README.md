@@ -13,4 +13,4 @@ https://youtu.be/uK5CQuA3YOs
 ## Installation
 
 **The bot is written in js.If you wanna buy the bot
-and instructions.Contact**
+and instructions.Contact @markcassen on telegram**
