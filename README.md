@@ -1,2 +1,14 @@
-# Tron-auto-withdraw-bot-for-trust-wallet
-This is a GitHub repository for an automated withdrawal bot for Trust Wallet. The bot allows users to automatically withdraw TRX tokens from their Trust Wallet to a specified destination address. The bot is designed to run continuously and perform the withdrawal process automatically, reducing the manual effort required by the user.
+#TRX Auto Withdrawal Bot for Multisignature Trust Wallet
+
+This is a simple bot that automatically withdraws TRX tokens from a multisignature trust wallet and sends it to a specified address.
+
+##Features
+
+*Automatic withdrawal of TRX tokens from a multisignature trust wallet
+*Send tokens to a specified address
+*Fast
+
+##Installation
+
+The bot is written in js.If you wanna buy the bot
+and instructions.Contact
